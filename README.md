@@ -26,8 +26,11 @@ Escolhemos esse tema pois é leve e divertido ,além de que está presente e con
 
 ## ❓ Perguntas ou Hipóteses  
 Quais são os gêneros mais frequentes nas produções da Netflix?
+
 Qual a média de duração dos filmes disponíveis na plataforma?
+
 A maioria dos conteúdos é voltada para qual faixa etária?
+
 A Netflix tem mais produções dos Estados Unidos ou de outros países?
 
 ## 🔍 Metodologia  
