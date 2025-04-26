@@ -2,31 +2,33 @@
 
 ## 🧑‍💻 Autores  
 - Igor Maciel de Oliveira (202421250001) - maciel.igor@academico.ifpb.edu.br  
-- Nome 2 (matrícula) - email  
-- Nome 3 (matrícula) - email  
+- Lenin Gabriel I.Trajano (202421250014) - lenin.gabriel@academico.ifpb.edu.br
 
 ## 🎯 Tema e Motivação  
-Descreva em até dois parágrafos o tema que será investigado no projeto e a motivação da equipe para essa escolha.  
-Explique por que esse tema é relevante ou interessante do ponto de vista estatístico ou social.
+O tema do nosso projeto é a “Análise do catálogo da Netflix”, com foco nos filmes e séries disponíveis na plataforma. O objetivo é explorar o perfil do conteúdo oferecido, como por exemplo:  quais os gêneros mais comuns, de quais países vêm as produções, qual a classificação etária predominante, entre outros.
+
+Escolhemos esse tema pois é leve e divertido ,além de que está presente e conectado na vida de milhões de pessoas, não só do Brasil , mas do mundo inteiro. A análise desses dados pode ajudar a entender como é a dinâmica utilizada pela Netflix, e que a própria Netflix entenda as preferências do seu público.
+
 
 ## 📊 Conjunto de Dados Selecionado  
 - **Nome do conjunto de dados:**  
-  (Exemplo: "World Happiness Report", "ENEM 2023", "IBGE - PNAD Contínua", "Kaggle - Netflix Movies", etc.)
+  Netflix Movies and TV Shows Dataset
 
 - **Fonte:**  
-  (Link ou citação da base de dados)
+  (https://www.kaggle.com/datasets/shivamb/netflix-shows)
 
 - **Descrição breve:**  
-  Explique o que representa esse conjunto de dados, qual o escopo (temporal, geográfico, etc.), quais as principais variáveis presentes e o motivo pelo qual ele foi escolhido.  
+   Esse conjunto de dados contém informações sobre todos os títulos disponíveis na Netflix até 2021. Ele inclui variáveis como nome do título, tipo (filme ou série), diretor, elenco, país de origem, data de lançamento, duração, gênero e classificação etária.   
 
 - **Justificativa para a escolha:**  
-  Indique por que esse conjunto de dados permite análises estatísticas interessantes e como ele pode responder a questões relevantes.
-
+ A base de dados é simples, organizada e permite diversas análises estatísticas, como distribuição de conteúdo por tipo, ano, país, gênero e classificação indicativa. É ideal para aplicar conceitos de estatística descritiva, além de ser um tema com grande apelo popular.
 ---
 
 ## ❓ Perguntas ou Hipóteses  
-*Começar a planejar com perguntas de Estatística Descritiva*  
-Liste aqui as perguntas de pesquisa ou hipóteses estatísticas que o grupo pretende investigar com base nos dados.
+Quais são os gêneros mais frequentes nas produções da Netflix?
+Qual a média de duração dos filmes disponíveis na plataforma?
+A maioria dos conteúdos é voltada para qual faixa etária?
+A Netflix tem mais produções dos Estados Unidos ou de outros países?
 
 ## 🔍 Metodologia  
 *A preencher na próxima etapa.*  
